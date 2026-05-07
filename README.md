@@ -13,10 +13,10 @@ Frontend:
 4. npm start
 5. Open localhost:3000 to run the application in the browser.
 
-Dependencies: 
-Python: FastAPI, SQLAlchemy, Pydantic 
-Node js needs to be installed on the local machine 
-JS: React 
+Dependencies:
+Python: FastAPI, SQLAlchemy, Pydantic
+Node js needs to be installed on the local machine
+JS: React
 DB: SQLite
 
 Future Improvements:
